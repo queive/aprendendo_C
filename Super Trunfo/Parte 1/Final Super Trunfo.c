@@ -14,7 +14,7 @@ int main(){
  
  // Variaveis Primeira Carta
 
- char estadoA;
+char estadoA;
 char CodcartaA[4];
 char nomeA[20];
 unsigned long int populacaoA;

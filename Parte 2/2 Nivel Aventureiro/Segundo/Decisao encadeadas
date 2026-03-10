@@ -1,0 +1,23 @@
+#include <stdio.h>
+
+int main(){
+int condicao1, condicao2;
+
+/* Estrutura aninhada */
+if (condicao1){
+    if (condicao2){
+        
+    }
+    
+}
+//Estrutura encadeada
+if (condicao1){
+
+} else if (condicao2) {
+
+} else {
+    
+}
+
+    return 0;
+}
